@@ -1,0 +1,1232 @@
+# Translation of Plugins - Click to Chat - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Click to Chat - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-19 10:58:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Click to Chat - Stable (latest release)\n"
+
+#: new/admin/admin_commons/class-ht-ctc-metabox.php:99
+msgid "Default"
+msgstr "Standaard"
+
+#: new/admin/admin_commons/class-ht-ctc-metabox.php:93
+msgid "Hide"
+msgstr "Verberg"
+
+#: new/admin/admin_commons/class-ht-ctc-metabox.php:87
+msgid "Show"
+msgstr "Toon"
+
+#: new/admin/admin_commons/class-ht-ctc-metabox.php:78
+msgid "Pre-filled Message"
+msgstr "Vooraf ingevuld bericht"
+
+#: new/admin/admin_commons/admin-sidebar-content.php:32
+msgid "We are planning to add a portfolio for Click to Chat installed Website"
+msgstr "We zijn van plan een portfolio toe te voegen voor de door Click to Chat geïnstalleerde site"
+
+#: new/admin/admin_commons/admin-sidebar-content.php:31
+msgid "Click to Chat is Customizable - Style, color, own image"
+msgstr "Click to Chat is aanpasbaar - Stijl, kleur, eigen afbeelding"
+
+#: new/admin/admin_commons/admin-sidebar-content.php:29
+msgid "ShowCase"
+msgstr "ShowCase"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:222
+#: new/admin/class-ht-ctc-admin-main-page.php:232
+#: new/admin/class-ht-ctc-admin-main-page.php:241
+msgid "AMP Compatibility"
+msgstr "AMP compatibiliteit"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:361
+#: new/admin/class-ht-ctc-admin-customize-styles.php:465
+#: new/admin/class-ht-ctc-admin-customize-styles.php:650
+msgid "Font Size (e.g. 15px)"
+msgstr "Lettertype grootte (e.g. 15px)"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:357
+#: new/admin/class-ht-ctc-admin-customize-styles.php:461
+#: new/admin/class-ht-ctc-admin-customize-styles.php:646
+msgid "Font Size"
+msgstr "Lettertype grootte"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:57
+msgid "If already added, clear the cache and check"
+msgstr "Indien al toegevoegd, wis de cache en controleer dan"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:56
+msgid "Add WhatsApp Number With country code"
+msgstr "Voeg WhatsApp nummer met landcode toe "
+
+#: new/admin/admin_commons/admin-after-settings-page.php:54
+msgid "Phone number shared via url is invalid"
+msgstr "Telefoonnummer gedeeld via url is ongeldig"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:29
+msgid "Change Settings at Page Level"
+msgstr "Wijzig instellingen op paginaniveau"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:26
+msgid "Change Values at page level"
+msgstr "Wijzig waarden op paginaniveau"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:395
+#: new/admin/class-ht-ctc-admin-other-settings.php:404
+msgid "Debug mode"
+msgstr "Debug modus"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:383
+msgid "Debug, Troubleshoot, .."
+msgstr "Debug, Probleemoplossing, .."
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:370
+msgid "Chat settings are enabled by default. If like to hide chat on all pages select"
+msgstr "Chat instellingen zijn standaard ingeschakeld. Als je chat wil verbergen op alle pagina's selecteer "
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:312
+msgid "Group, Share features"
+msgstr "Groep, deel functies"
+
+#: new/admin/admin_commons/admin-show-hide.php:429
+msgid "Show on this Category type pages, Add multiple Categories by separating with a comma ( , )"
+msgstr "Toon op dit categorie type pagina's, voeg meerdere categorieën toe door ze te scheiden met een komma (,)"
+
+#: new/admin/admin_commons/admin-show-hide.php:428
+msgid "Add Category names to Show Styles"
+msgstr "Voeg categorienamen toe om stijlen weer te geven"
+
+#: new/admin/admin_commons/admin-show-hide.php:418
+msgid "Add Post ID's to show Styles"
+msgstr "Voeg bericht-ID's toe om stijlen weer te geven"
+
+#: new/admin/admin_commons/admin-show-hide.php:250
+msgid "Select pages to display styles"
+msgstr "Selecteer pagina's om stijlen weer te geven"
+
+#: new/admin/admin_commons/admin-show-hide.php:239
+msgid "Hides on this Category type pages, Add multiple Categories by separating with a comma ( , ) "
+msgstr "Verbergt op pagina's van dit categorietype, voeg meerdere categorieën toe door ze te scheiden met een komma (,)"
+
+#: new/admin/admin_commons/admin-show-hide.php:238
+msgid "Add Category names to Hide Styles"
+msgstr "Voeg categorienamen toe om stijlen te verbergen"
+
+#: new/admin/admin_commons/admin-show-hide.php:229
+msgid "Add Post ID's to Hide Styles"
+msgstr "Voeg bericht-ID's toe om stijlen te verbergen"
+
+#: new/admin/admin_commons/admin-show-hide.php:56
+msgid "Select pages to Hide styles"
+msgstr "Selecteer pagina's om stijlen te verbergen"
+
+#: new/admin/admin_commons/admin-show-hide.php:44
+msgid "Default Hides on all pages"
+msgstr "Standaard verbergt op alle pagina's"
+
+#: new/admin/admin_commons/admin-show-hide.php:43
+msgid "Default shows on all pages"
+msgstr "Standaard wordt op alle pagina's weergegeven"
+
+#: new/admin/admin_commons/admin-sidebar-content.php:17
+msgid "Mail"
+msgstr "E-mail"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:227
+msgid "E.g. Add 2 to repeat animation 2 times"
+msgstr "Bijv. Voeg 2 toe om de animatie 2 keer te herhalen"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:222
+#: new/admin/class-ht-ctc-admin-other-settings.php:226
+msgid "Animation Iteration"
+msgstr "Animatie herhaling"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:215
+msgid "E.g. Add 1 for 1 second delay"
+msgstr "Bijv. Voeg 1 toe voor een vertraging van 1 seconde"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:210
+#: new/admin/class-ht-ctc-admin-other-settings.php:214
+msgid "Animation Delay"
+msgstr "Vertraging van animatie"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:240
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1301
+msgid "Position for Mobile may need to change"
+msgstr "Positie voor mobile moet mogelijk gewijzigd worden"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:216
+#: new/admin/class-ht-ctc-admin-customize-styles.php:225
+#: new/admin/class-ht-ctc-admin-customize-styles.php:234
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1277
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1286
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1295
+msgid "Full Width on Mobile"
+msgstr "Volledige breedte op mobiel"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:252
+msgid "Looks good for some styles or if no-animation"
+msgstr "Ziet er goed uit voor sommige stijlen of als er geen animatie is"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:251
+msgid "How to display"
+msgstr "Hoe te tonen"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:237
+msgid "Show Effects"
+msgstr "Toon effecten"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:179
+#: new/admin/class-ht-ctc-admin-other-settings.php:189
+#: new/admin/class-ht-ctc-admin-other-settings.php:203
+msgid "Animations"
+msgstr "Animaties"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:89
+msgid "Analytics"
+msgstr "Analytics"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1214
+msgid "Icon,Text Color on Hover"
+msgstr "Pictogram,tekstkleur bij hoveren"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1204
+msgid "Icon,Text Color"
+msgstr "Pictogram,tekstkleur"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1192
+msgid "Icon Border Padding Size"
+msgstr "Grootte van de rand van het pictogram"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1161
+msgid "Style 7 Extend"
+msgstr "Stijl 7 Uitgebreid"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:508
+msgid "Image Size (Default: 40px )"
+msgstr "Afbeeldingsgrootte (standaard:40px)"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:497
+msgid "Style 3 Extend"
+msgstr "Style 3 Uitgebreid"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:347
+#: new/admin/class-ht-ctc-admin-customize-styles.php:451
+#: new/admin/class-ht-ctc-admin-customize-styles.php:636
+msgid "Call to Action - Background Color"
+msgstr "Oproep tot actie - achtergrondkleur"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:337
+#: new/admin/class-ht-ctc-admin-customize-styles.php:441
+#: new/admin/class-ht-ctc-admin-customize-styles.php:626
+msgid "Call to Action - Text Color"
+msgstr "Oproep tot actie - Tekstkleur"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:316
+#: new/admin/class-ht-ctc-admin-customize-styles.php:420
+#: new/admin/class-ht-ctc-admin-customize-styles.php:605
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1103
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1167
+msgid "Display - Call to Action"
+msgstr "Toon - Oproep tot actie"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:178
+#: new/admin/class-ht-ctc-admin-customize-styles.php:187
+msgid "Display all Styles"
+msgstr "Toon alle stijlen"
+
+#: new/admin/admin_commons/admin-desktop.php:44
+#: new/admin/admin_commons/admin-mobile.php:41
+msgid "Style-7 Extend"
+msgstr "Style-7 Uitgebreid"
+
+#: new/admin/admin_commons/admin-desktop.php:38
+#: new/admin/admin_commons/admin-mobile.php:36
+msgid "Style-3 Extend"
+msgstr "Style-3 Uitgebreid"
+
+#: new/admin/class-ht-ctc-admin-group-page.php:152
+msgid "Shortcodes for Group Chat"
+msgstr "Shortcodes voor groep chat"
+
+#: new/admin/class-ht-ctc-admin-group-page.php:98
+msgid "Enter WhatsApp Group ID. E.g. 9EHLsEsOeJk6AVtE8AvXiA"
+msgstr "Voer WhatsApp Group ID in. Bijv. 9EHLsEsOeJk6AVtE8AvXiA"
+
+#: new/admin/class-ht-ctc-admin-group-page.php:69
+#: new/admin/class-ht-ctc-admin-group-page.php:97
+msgid "WhatsApp Group ID"
+msgstr "WhatsApp groeps ID"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:329
+msgid "If you are convenient with the previous interface in comparison to the new one, please switch to previous interface"
+msgstr "Als je de vorige interface handig vindt in vergelijking met de nieuwe, wissel dan naar de vorige interface"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:326
+#: new/admin/class-ht-ctc-admin-main-page.php:337
+msgid "Switch Interface"
+msgstr "Wissel interface"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:142
+msgid "If Facebook Pixel installed creates an Event there"
+msgstr "Als Facebook Pixel is geïnstalleerd, maak daar een gebeurtenis aan"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:127
+#: new/admin/class-ht-ctc-admin-other-settings.php:136
+msgid "Facebook Pixel"
+msgstr "Facebook Pixel"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:115
+msgid "If Google Analytics installed creates an Event there"
+msgstr "Als Google Analytics is geïnstalleerd, wordt daar een gebeurtenis gemaakt"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:161
+msgid "Text that appears in the WhatsApp Chat window. Add variables {site}, {url}, {title} to replace with site name, current webpage URL, Post title"
+msgstr "Tekst die verschijnt in het WhatsApp Chat venster. Voeg variabelen {site}, {url}, {title} toe om te vervangen door sitenaam, huidige webpagina URL, titel van bericht"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:160
+msgid "Pre-filled message"
+msgstr "Vooraf ingevuld bericht"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:143
+msgid "( E.g. 916123456789 - herein e.g. 91 is country code, 6123456789 is the mobile number )"
+msgstr "(Bijv. 916123456789 - hierin is bijvoorbeeld 91 de landcode, 6123456789 het mobiele nummer)"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:142
+msgid "Enter 'WhatsApp' or 'WhatsApp business' number with country code"
+msgstr "Voer 'WhatsApp' of 'WhatsApp zakelijk' nummer met landcode in"
+
+#: new/admin/admin_commons/class-ht-ctc-metabox.php:84
+#: new/admin/class-ht-ctc-admin-main-page.php:101
+msgid "Display Settings"
+msgstr "Scherm instellingen"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:99
+msgid "Dekstop"
+msgstr "Dekstop"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:91
+msgid "Pre-Filled Message"
+msgstr "Vooraf ingevuld bericht"
+
+#: new/admin/admin_commons/class-ht-ctc-admin-others.php:113
+msgid "to let vistiors Share your Webpages"
+msgstr "om bezoekers je webpagina's te laten delen"
+
+#: new/admin/admin_commons/class-ht-ctc-admin-others.php:113
+msgid "Add Share Text"
+msgstr "Voeg deeltekst toe"
+
+#: new/admin/admin_commons/class-ht-ctc-admin-others.php:104
+msgid "to let visitors join in your WhatsApp Group"
+msgstr "om bezoekers te laten deelnemen aan je WhatsApp-groep"
+
+#: new/admin/admin_commons/class-ht-ctc-admin-others.php:104
+msgid "Add WhatsApp Group ID"
+msgstr "Voeg WhatsApp Group ID toe"
+
+#: new/admin/admin_commons/class-ht-ctc-admin-others.php:94
+msgid "and let visitors chat"
+msgstr "en laat bezoekers chatten"
+
+#: new/admin/admin_commons/class-ht-ctc-admin-others.php:94
+msgid "Add WhatsApp Number"
+msgstr "Voeg WhatsApp nummer toe"
+
+#: new/admin/admin_commons/class-ht-ctc-admin-others.php:94
+#: new/admin/admin_commons/class-ht-ctc-admin-others.php:104
+#: new/admin/admin_commons/class-ht-ctc-admin-others.php:113
+msgid "Click to Chat is almost ready"
+msgstr "Click to Chat is bijna klaar"
+
+#: new/admin/admin_commons/admin-desktop.php:106
+#: new/admin/admin_commons/admin-desktop.php:115
+msgid "Hide on - Desktop Devices"
+msgstr "Verbergen op - desktop apparaten"
+
+#: new/admin/admin_commons/admin-desktop.php:61
+msgid "Position to Place (Desktop)"
+msgstr "Positie om te plaatsen (bureaublad)"
+
+#: new/admin/admin_commons/admin-desktop.php:49
+msgid "Check this"
+msgstr "Vink aan"
+
+#: new/admin/admin_commons/admin-desktop.php:49
+msgid "If Styles for desktop, mobile not selected as expected"
+msgstr "Als Stijlen voor desktop, mobiel niet is geselecteerd zoals verwacht"
+
+#: new/admin/admin_commons/admin-desktop.php:30
+msgid "Select Style (Desktop)"
+msgstr "Selecteer stijl (desktop)"
+
+#: new/admin/admin_commons/admin-mobile.php:102
+#: new/admin/admin_commons/admin-mobile.php:111
+msgid "Hide on - Mobile Devices"
+msgstr "Verbergen op - mobiele apparaten"
+
+#: new/admin/admin_commons/admin-desktop.php:92
+#: new/admin/admin_commons/admin-mobile.php:88
+msgid "Add css units as suffix - e.g. 10px, 50%"
+msgstr "Voeg css eenheden toe als achtervoegsel - bijv. 10 px, 50%"
+
+#: new/admin/admin_commons/admin-desktop.php:89
+#: new/admin/admin_commons/admin-mobile.php:85
+msgid "E.g. 50%"
+msgstr "Bijv. 50%"
+
+#: new/admin/admin_commons/admin-desktop.php:84
+#: new/admin/admin_commons/admin-mobile.php:80
+msgid "right / left"
+msgstr "rechts / links"
+
+#: new/admin/admin_commons/admin-desktop.php:82
+#: new/admin/admin_commons/admin-mobile.php:78
+msgid "left"
+msgstr "links"
+
+#: new/admin/admin_commons/admin-desktop.php:81
+#: new/admin/admin_commons/admin-mobile.php:77
+msgid "right"
+msgstr "rechts"
+
+#: new/admin/admin_commons/admin-desktop.php:73
+#: new/admin/admin_commons/admin-mobile.php:69
+msgid "E.g. 10px"
+msgstr "Bijv. 10px"
+
+#: new/admin/admin_commons/admin-desktop.php:67
+#: new/admin/admin_commons/admin-mobile.php:63
+msgid "top"
+msgstr "boven"
+
+#: new/admin/admin_commons/admin-desktop.php:66
+#: new/admin/admin_commons/admin-mobile.php:62
+msgid "bottom"
+msgstr "bodem"
+
+#: new/admin/admin_commons/admin-mobile.php:57
+msgid "Position to Place (Mobile)"
+msgstr "Positie om te plaatsen (mobiel)"
+
+#: new/admin/admin_commons/admin-desktop.php:48
+#: new/admin/admin_commons/admin-mobile.php:45
+msgid "Customize the styles"
+msgstr "Pas de stijlen aan"
+
+#: new/admin/admin_commons/admin-desktop.php:48
+#: new/admin/admin_commons/admin-mobile.php:45
+msgid "List of styles"
+msgstr "Lijst met stijlen"
+
+#: new/admin/admin_commons/admin-desktop.php:46
+#: new/admin/admin_commons/admin-mobile.php:43
+msgid "Style-99 (Add your own image / GIF)"
+msgstr "Style-99 (Voeg je eigen afbeelding / GIF toe)"
+
+#: new/admin/admin_commons/admin-desktop.php:45
+#: new/admin/admin_commons/admin-mobile.php:42
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1432
+msgid "Style-8"
+msgstr "Stijl-8"
+
+#: new/admin/admin_commons/admin-desktop.php:43
+#: new/admin/admin_commons/admin-mobile.php:40
+msgid "Style-7"
+msgstr "Stijl-7"
+
+#: new/admin/admin_commons/admin-desktop.php:42
+#: new/admin/admin_commons/admin-mobile.php:39
+msgid "Style-6"
+msgstr "Stijl-6"
+
+#: new/admin/admin_commons/admin-desktop.php:41
+#: new/admin/admin_commons/admin-mobile.php:38
+msgid "Style-5"
+msgstr "Stijl-5"
+
+#: new/admin/admin_commons/admin-desktop.php:40
+#: new/admin/admin_commons/admin-mobile.php:37
+msgid "Style-4"
+msgstr "Stijl-4"
+
+#: new/admin/admin_commons/admin-desktop.php:37
+#: new/admin/admin_commons/admin-mobile.php:35
+msgid "Style-3"
+msgstr "Stijl-3"
+
+#: new/admin/admin_commons/admin-desktop.php:35
+#: new/admin/admin_commons/admin-mobile.php:34
+msgid "Style-2"
+msgstr "Stijl-2"
+
+#: new/admin/admin_commons/admin-desktop.php:34
+#: new/admin/admin_commons/admin-mobile.php:33
+#: new/admin/class-ht-ctc-admin-customize-styles.php:264
+msgid "Style-1"
+msgstr "Stijl-1"
+
+#: new/admin/admin_commons/admin-mobile.php:29
+msgid "Select Style (Mobile)"
+msgstr "Selecteer stijl (mobiel)"
+
+#: new/admin/admin_commons/admin-sidebar-content.php:16
+msgid "Please let us know if you have any suggestions or feedback!!"
+msgstr "Laat het ons weten als je suggesties of feedback hebt!!"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:73
+msgid "mail"
+msgstr "e-mail"
+
+#: new/admin/admin_commons/admin-sidebar-content.php:16
+#: new/admin/admin_commons/admin-after-settings-page.php:72
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: new/admin/admin_commons/admin-sidebar-content.php:14
+#: new/admin/admin_commons/admin-after-settings-page.php:70
+msgid "Contact Us"
+msgstr "Neem contact op"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:49
+msgid "If still an issue, please contact us"
+msgstr "Neem contact met ons op als er nog steeds een probleem is"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:48
+msgid "Clear the Cache and try"
+msgstr "Wis de cache en probeer het"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:48
+msgid "If already added it might be cached version"
+msgstr "Als het al is toegevoegd, kan het een cacheversie zijn"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:47
+#: new/admin/class-ht-ctc-admin-main-page.php:140
+msgid "WhatsApp Number with Country Code"
+msgstr "WhatsApp nummer met landcode"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:47
+msgid "Add"
+msgstr "Toevoegen"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:45
+msgid "No WhatsApp Number Found!"
+msgstr "Geen WhatsApp nummer gevonden!"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:39
+msgid "Browser Cache"
+msgstr "Browser cache"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:38
+msgid "Server cache"
+msgstr "Server cache"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:37
+msgid "Cache plugins"
+msgstr "Cache plugins"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:36
+msgid "Clear Cache"
+msgstr "Cache wissen"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:34
+msgid "I Make Changes and Nothing Happens"
+msgstr "Ik breng wijzigingen aan en er gebeurt niets"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:17
+msgid "Show/Hide on Selected pages, devices"
+msgstr "Tonen/verbergen op geselecteerde pagina's, apparaten"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:14
+msgid "Frequently Asked Questions"
+msgstr "Veel gestelde vragen"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:21
+#: new/admin/admin_commons/admin-show-hide.php:445
+msgid "Show/Hide on Mobile/Desktop"
+msgstr "Tonen/verbergen op mobiel/desktop"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:20
+#: new/admin/admin_commons/admin-show-hide.php:444
+msgid "Hide only on selected pages"
+msgstr "Verberg alleen op geselecteerde pagina's"
+
+#: new/admin/admin_commons/admin-show-hide.php:443
+#: new/admin/admin_commons/admin-show-hide.php:444
+msgid " (Single, Cart, Checkout page)"
+msgstr "(Enkel, Winkelwagen, Afrekenpagina)"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:19
+#: new/admin/admin_commons/admin-show-hide.php:41
+#: new/admin/admin_commons/admin-show-hide.php:443
+msgid "Show only on selected pages"
+msgstr "Alleen weergeven op geselecteerde pagina's"
+
+#: new/admin/admin_commons/admin-show-hide.php:442
+msgid "Usecases"
+msgstr "Usecases"
+
+#: new/admin/admin_commons/admin-show-hide.php:419
+msgid "Add Post, Page, Media - ID's to show styles, Add multiple id's by separating with a comma ( , )"
+msgstr "Voeg bericht, pagina, media - ID's toe om stijlen te tonen, voeg meerdere ID's toe door ze te scheiden met een komma ( , )"
+
+#: new/admin/admin_commons/admin-show-hide.php:230
+msgid "Add post id's to hide. Add multiple post id's by separating with a comma ( , )"
+msgstr "Voeg bericht-ID's toe om te verbergen. Voeg meerdere bericht-ID's toe door ze te scheiden met een komma (,)"
+
+#: new/admin/admin_commons/admin-show-hide.php:222
+msgid "Check to hide Styles based on the type of pages"
+msgstr "Vink aan om op stijl gebaseerde paginatypes te verbergen"
+
+#: new/admin/admin_commons/admin-show-hide.php:205
+#: new/admin/admin_commons/admin-show-hide.php:214
+msgid "Hide on - WooCommerce single product pages"
+msgstr "Verbergen op - WooCommerce afzonderlijke productpagina's"
+
+#: new/admin/admin_commons/admin-show-hide.php:183
+#: new/admin/admin_commons/admin-show-hide.php:192
+msgid "Hide on - 404 Page"
+msgstr "Verbergen op - 404 pagina"
+
+#: new/admin/admin_commons/admin-show-hide.php:161
+#: new/admin/admin_commons/admin-show-hide.php:170
+msgid "Hide on - Archive"
+msgstr "Verbergen op - Archief"
+
+#: new/admin/admin_commons/admin-show-hide.php:138
+#: new/admin/admin_commons/admin-show-hide.php:147
+msgid "Hide on - Category"
+msgstr "Verbergen op - Categorie"
+
+#: new/admin/admin_commons/admin-show-hide.php:116
+#: new/admin/admin_commons/admin-show-hide.php:125
+msgid "Hide on - Home/Front Page"
+msgstr "Verbergen op - Home/Startpagina"
+
+#: new/admin/admin_commons/admin-show-hide.php:91
+#: new/admin/admin_commons/admin-show-hide.php:100
+msgid "Hide on - Pages"
+msgstr "Verbergen op - Pagina's"
+
+#: new/admin/admin_commons/admin-show-hide.php:69
+#: new/admin/admin_commons/admin-show-hide.php:78
+msgid "Hide on - Posts"
+msgstr "Verbergen op - berichten"
+
+#: new/admin/admin_commons/admin-show-hide.php:45
+msgid "enable"
+msgstr "inschakelen"
+
+#: new/admin/admin_commons/admin-show-hide.php:40
+msgid "Hide on selected pages"
+msgstr "Verbergen op geselecteerde pagina's"
+
+#: new/admin/admin_commons/admin-show-hide.php:35
+msgid "Select Show/Hide"
+msgstr "Selecteer tonen/verbergen"
+
+#: new/admin/admin_commons/admin-show-hide.php:24
+msgid "Show/Hide on Selected pages"
+msgstr "Tonen/verbergen op geselecteerde pagina's"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:432
+#: new/admin/class-ht-ctc-admin-other-settings.php:441
+msgid "Delete this plugin settings when uninstalls"
+msgstr "Verwijder deze plugin instellingen bij het verwijderen"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:370
+msgid "show on selected pages"
+msgstr "tonen op geselecteerde pagina's"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:352
+msgid "Share Settings page"
+msgstr "Pagina met instellingen voor delen"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:350
+#: new/admin/class-ht-ctc-admin-other-settings.php:360
+msgid "Enable Share Features"
+msgstr "Schakel deel functies in"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:325
+msgid "Group Settings page"
+msgstr "Groepsinstellingen pagina"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:323
+#: new/admin/class-ht-ctc-admin-other-settings.php:333
+msgid "Enable Group Features"
+msgstr "Schakel groepsfuncties in"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:285
+#: new/admin/class-ht-ctc-admin-other-settings.php:294
+msgid "Check this only, If styles for mobile, desktop not selected as expected(due to cache)"
+msgstr "Vink dit alleen aan: Als stijlen voor mobiel, desktop niet is geselecteerd zoals verwacht (vanwege cache)"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:274
+msgid "Other Settings"
+msgstr "Andere instellingen"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1457
+msgid "Style 99 - Own Image / GIF"
+msgstr "Stijl 99 - eigen afbeelding / GIF"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1427
+msgid "Large"
+msgstr "Groot"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1426
+msgid "Normal"
+msgstr "Normaal"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1422
+msgid "Button Size"
+msgstr "Knop grootte"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1414
+msgid "Icon Size  -  E.g. 16px"
+msgstr "Pictogram grootte - bijv. 16px"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1403
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1415
+msgid "Leave blank for default settings"
+msgstr "Laat leeg voor standaardinstellingen"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1402
+msgid "Text Size  -  E.g. 12px"
+msgstr "Tekstgrootte - bijv. 12px"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1398
+msgid "Text Size"
+msgstr "Lettergrootte"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1382
+msgid "Icon Position"
+msgstr "Pictogram positie"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1271
+msgid "Style 8"
+msgstr "Stijl 8"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1094
+msgid "To display icon only - clear background-color. (May need to change icon color to display in plain background)"
+msgstr "Om alleen het pictogram weer te geven - wis de achtergrondkleur. (Mogelijk moet de pictogramkleur worden gewijzigd om op een effen achtergrond weer te geven)"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1090
+msgid "E.g. 10px, 50% ( for round border add 50% )"
+msgstr "Bijv. 10px, 50 %(voor ronde rand 50% toevoegen)"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1085
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1089
+msgid "Border radius"
+msgstr "Rand radius"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1058
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1197
+msgid "E.g. 12px"
+msgstr "Bijv. 12px"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1053
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1057
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1196
+msgid "Border Padding Size"
+msgstr "Afmeting randvulling"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1043
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1368
+msgid "Icon Color on Hover"
+msgstr "Pictogramkleur bij hover"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1033
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1356
+msgid "Icon Color"
+msgstr "Pictogramkleur"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1022
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1026
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1181
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1185
+msgid "Icon Size"
+msgstr "Pictogram grootte"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1016
+msgid "Style 7"
+msgstr "Stijl 7"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:896
+msgid "If style position/located: Right to screen then select Right, if Left to screen then select Left"
+msgstr "Als stijlpositie/locatie: Rechts naar scherm selecteer dan Rechts, als Links naar scherm selecteer dan Links"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:894
+msgid "Left"
+msgstr "Links"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:893
+msgid "Right"
+msgstr "Rechts"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:878
+#: new/admin/class-ht-ctc-admin-customize-styles.php:882
+msgid "Content Box Width"
+msgstr "Inhoud box breedte"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:867
+#: new/admin/class-ht-ctc-admin-customize-styles.php:871
+msgid "Content Box Height"
+msgstr "Inhoud box hoogte"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:856
+#: new/admin/class-ht-ctc-admin-customize-styles.php:860
+msgid "Image Width"
+msgstr "Afbeeldingsbreedte"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:845
+#: new/admin/class-ht-ctc-admin-customize-styles.php:849
+msgid "Image Height"
+msgstr "Afbeelding hoogte"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:824
+msgid "Content Box Border Color"
+msgstr "Inhoud box rand kleur"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:814
+msgid "Content Box Background Color"
+msgstr "Inhoud box achtergrondkleur"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:804
+msgid "Line 2 - Text Color"
+msgstr "Regel 2 - Tekstkleur"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:794
+msgid "Line 1 - Text Color"
+msgstr "Regel 1 - Tekstkleur"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:783
+#: new/admin/class-ht-ctc-admin-customize-styles.php:787
+msgid "Line 2"
+msgstr "Regel 2"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:772
+#: new/admin/class-ht-ctc-admin-customize-styles.php:776
+msgid "Line 1"
+msgstr "Regel 1"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:766
+msgid "Style 5"
+msgstr "Stijl 5"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:732
+msgid "(possible, keep the value less then or equal to 32px)"
+msgstr "(mogelijk, houd de waarde kleiner dan of gelijk aan 32px)"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:731
+msgid "Image Size (default 32px)"
+msgstr "Afbeeldingsgrootte (standaard 32px)"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:720
+msgid "Image URL(leave blank for default image)"
+msgstr "Afbeelding URL (blanco laten voor standaardafbeelding)"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:716
+#: new/admin/class-ht-ctc-admin-customize-styles.php:834
+msgid "Image URL"
+msgstr "Afbeelding URL"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:703
+#: new/admin/class-ht-ctc-admin-customize-styles.php:889
+msgid "Image Position"
+msgstr "Afbeelding positie"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:573
+#: new/admin/class-ht-ctc-admin-customize-styles.php:582
+msgid "Shadow on Hover"
+msgstr "Schaduw bij zweven"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:552
+#: new/admin/class-ht-ctc-admin-customize-styles.php:561
+msgid "Shadow"
+msgstr "Schaduw"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:541
+msgid "E.g. Colors: #25D366, #20b038"
+msgstr "Bijv. Kleuren: #25D366, #20b038"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:537
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1075
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1234
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1344
+msgid "Background Color on Hover"
+msgstr "Achtergrondkleur bij zweven"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:520
+msgid "Padding (Default: 20px )"
+msgstr "Padding (standaard:20px)"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:516
+msgid "Padding"
+msgstr "Padding"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:410
+msgid "Image Size (Default: 50px )"
+msgstr "Afbeeldingsgrootte (standaard:50px)"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:400
+msgid "Style 3"
+msgstr "Stijl 3"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:294
+#: new/admin/class-ht-ctc-admin-customize-styles.php:298
+#: new/admin/class-ht-ctc-admin-customize-styles.php:406
+#: new/admin/class-ht-ctc-admin-customize-styles.php:504
+#: new/admin/class-ht-ctc-admin-customize-styles.php:727
+msgid "Image Size"
+msgstr "Afbeeldingsgrootte"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:287
+msgid "Style 2"
+msgstr "Stijl 2"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:210
+msgid "Style-1 is a button that appears like themes button"
+msgstr "Style-1 is een knop die lijkt op een themaknop"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:207
+msgid "Style 1"
+msgstr "Stijl 1"
+
+#: new/admin/class-ht-ctc-admin-share-page.php:184
+msgid "Shortcodes for Share"
+msgstr "Shortcodes voor Share"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:207
+#: new/admin/class-ht-ctc-admin-share-page.php:145
+msgid "If checked opens Web.WhatsApp directly on Desktop and in mobile WhatsApp App"
+msgstr "Indien aangevinkt opent Web.WhatsApp direct op Desktop en in mobiele WhatsApp App"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:192
+#: new/admin/class-ht-ctc-admin-main-page.php:201
+#: new/admin/class-ht-ctc-admin-share-page.php:130
+#: new/admin/class-ht-ctc-admin-share-page.php:139
+msgid "Web WhatsApp on Desktop"
+msgstr "Web WhatsApp op desktop"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:176
+#: new/admin/class-ht-ctc-admin-share-page.php:114
+#: new/admin/class-ht-ctc-admin-group-page.php:113
+msgid "Text that appears along with WhatsApp icon/button"
+msgstr "Tekst die samen met het WhatsApp pictogram/knop wordt weergegeven"
+
+#: new/admin/class-ht-ctc-admin-share-page.php:99
+msgid "Placeholder {{url}} returns current webpage URL"
+msgstr "Plaatshouder {{url}} retourneert de huidige webpagina URL"
+
+#: new/admin/class-ht-ctc-admin-share-page.php:84
+msgid "Share"
+msgstr "Delen"
+
+#: new/admin/class-ht-ctc-admin-share-page.php:76
+#: new/admin/class-ht-ctc-admin-group-page.php:75
+msgid "Show/Hide"
+msgstr "Tonen/verbergen"
+
+#: new/admin/admin_commons/admin-mobile.php:25
+#: new/admin/class-ht-ctc-admin-main-page.php:100
+#: new/admin/class-ht-ctc-admin-share-page.php:74
+#: new/admin/class-ht-ctc-admin-group-page.php:73
+msgid "Mobile"
+msgstr "Mobiel"
+
+#: new/admin/admin_commons/admin-desktop.php:25
+#: new/admin/class-ht-ctc-admin-share-page.php:73
+#: new/admin/class-ht-ctc-admin-group-page.php:72
+msgid "Desktop"
+msgstr "Bureaublad"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:93
+#: new/admin/class-ht-ctc-admin-share-page.php:71
+msgid "Web WhatsApp"
+msgstr "Web WhatsApp"
+
+#: new/admin/admin_commons/class-ht-ctc-metabox.php:72
+#: new/admin/class-ht-ctc-admin-main-page.php:92
+#: new/admin/class-ht-ctc-admin-main-page.php:175
+#: new/admin/class-ht-ctc-admin-share-page.php:70
+#: new/admin/class-ht-ctc-admin-share-page.php:113
+#: new/admin/class-ht-ctc-admin-group-page.php:70
+#: new/admin/class-ht-ctc-admin-group-page.php:112
+msgid "Call to Action"
+msgstr "Oproep tot actie"
+
+#: new/admin/class-ht-ctc-admin-share-page.php:69
+#: new/admin/class-ht-ctc-admin-share-page.php:98
+msgid "Share Text"
+msgstr "Deel tekst"
+
+#: new/inc/class-ht-ctc-register.php:82 prev/inc/class-ht-ccw-register.php:54
+msgid "Settings"
+msgstr "Instellingen"
+
+#: new/class-ht-ctc.php:55 new/class-ht-ctc.php:59 prev/inc/class-ht-ccw.php:59
+#: prev/inc/class-ht-ccw.php:63
+msgid "Cheatin&#8217; huh?"
+msgstr "Wat ben jij aan het proberen?"
+
+#: new/admin/admin_commons/admin-show-hide.php:440
+#: new/admin/admin_commons/admin-desktop.php:49
+#: new/admin/admin_commons/admin-mobile.php:88
+#: new/admin/class-ht-ctc-admin-main-page.php:143
+#: new/admin/class-ht-ctc-admin-main-page.php:161
+#: new/admin/class-ht-ctc-admin-main-page.php:207
+#: new/admin/class-ht-ctc-admin-share-page.php:99
+#: new/admin/class-ht-ctc-admin-share-page.php:114
+#: new/admin/class-ht-ctc-admin-share-page.php:145
+#: new/admin/class-ht-ctc-admin-share-page.php:184
+#: new/admin/class-ht-ctc-admin-group-page.php:98
+#: new/admin/class-ht-ctc-admin-group-page.php:113
+#: new/admin/class-ht-ctc-admin-other-settings.php:115
+#: new/admin/class-ht-ctc-admin-other-settings.php:142
+#: new/admin/class-ht-ctc-admin-other-settings.php:336
+#: new/admin/class-ht-ctc-admin-other-settings.php:363
+#: new/admin/class-ht-ctc-admin-other-settings.php:370
+#: prev/admin/class-ccw-admin-page-customize-styles.php:745
+#: prev/admin/class-ccw-admin-page-customize-styles.php:805
+msgid "more info"
+msgstr "meer informatie"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1518
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1522
+#: prev/admin/class-ccw-admin-page-customize-styles.php:638
+msgid "Mobile - Image Width"
+msgstr "Mobiel - Afbeelding breedte"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1507
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1511
+#: prev/admin/class-ccw-admin-page-customize-styles.php:629
+msgid "Mobile - Image Height"
+msgstr "Mobiel - Afbeelding hoogte"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1496
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1500
+#: prev/admin/class-ccw-admin-page-customize-styles.php:619
+msgid "Desktop - Image Width"
+msgstr "Bureaublad - Afbeeldingsbreedte"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1485
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1489
+#: prev/admin/class-ccw-admin-page-customize-styles.php:610
+msgid "Desktop - Image Height"
+msgstr "Bureaublad - Afbeeldingshoogte"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1478
+#: prev/admin/class-ccw-admin-page-customize-styles.php:598
+msgid "Image URL - Mobile"
+msgstr "Afbeelding URL - Mobiel"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1467
+#: prev/admin/class-ccw-admin-page-customize-styles.php:589
+msgid "Image URL - Desktop"
+msgstr "Afbeelding URL - Bureaublad"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:582
+msgid "Style 99 - own Image / GIF"
+msgstr "Stijl 99 - eigen afbeelding / GIF"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:533
+msgid "Icon size"
+msgstr "Pictogram grootte"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:509
+msgid "Icon color on hover"
+msgstr "Pictogram kleur bij hoveren"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:500
+msgid "Background Color on hover"
+msgstr "Achtergrondkleur bij hoveren"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:491
+msgid "Text Color on hover"
+msgstr "Tekstkleur bij hoveren"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:482
+msgid "Icon color"
+msgstr "Pictogram kleur"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:257
+#: new/admin/class-ht-ctc-admin-customize-styles.php:527
+#: new/admin/class-ht-ctc-admin-customize-styles.php:693
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1065
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1126
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1224
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1332
+#: prev/admin/class-ccw-admin-page-customize-styles.php:199
+#: prev/admin/class-ccw-admin-page-customize-styles.php:473
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:162
+#: prev/admin/class-ccw-admin-page-customize-styles.php:560
+msgid "Image size"
+msgstr "Afbeeldingsgrootte"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:969
+#: prev/admin/class-ccw-admin-page-customize-styles.php:127
+msgid "Text Decoration when Hover"
+msgstr "Tekstdecoratie bij hoveren"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:952
+#: prev/admin/class-ccw-admin-page-customize-styles.php:110
+#: prev/admin/class-ccw-admin-page-customize-styles.php:121
+msgid "Text Decoration"
+msgstr "Tekstdecoratie"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:941
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1320
+#: prev/admin/class-ccw-admin-page-customize-styles.php:101
+msgid "Text Color on Hover"
+msgstr "Tekstkleur bij Hoveren"
+
+#: new/admin/class-ht-ctc-admin-customize-styles.php:247
+#: new/admin/class-ht-ctc-admin-customize-styles.php:683
+#: new/admin/class-ht-ctc-admin-customize-styles.php:929
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1116
+#: new/admin/class-ht-ctc-admin-customize-styles.php:1308
+#: prev/admin/class-ccw-admin-page-customize-styles.php:92
+#: prev/admin/class-ccw-admin-page-customize-styles.php:190
+#: prev/admin/class-ccw-admin-page-customize-styles.php:464
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: prev/admin/class-ccw-admin-page.php:366
+msgid "Customize Styles"
+msgstr "Stijlen aanpassen"
+
+#: prev/admin/class-ccw-admin-page.php:44
+msgid "App First / If Cache Issue"
+msgstr "App eerst / Indien cache probleem"
+
+#: prev/admin/class-ccw-admin-page.php:43
+msgid "Shortcode name"
+msgstr "Shortcode naam"
+
+#: prev/admin/class-ccw-admin-page.php:42
+msgid "Categorys to Hide"
+msgstr "Categorien om te verbergen"
+
+#: prev/admin/class-ccw-admin-page.php:41
+msgid "Posts, Pages Id's to Hide"
+msgstr "Berichten, pagina's id's te verbergen"
+
+#: prev/admin/class-ccw-admin-page.php:40
+msgid "Hide Based on post type"
+msgstr "Verbergen op basis van het berichttype"
+
+#: prev/admin/class-ccw-admin-page.php:38
+msgid "Facebook Analytics"
+msgstr "Facebook Analytics"
+
+#: new/admin/class-ht-ctc-admin-other-settings.php:100
+#: new/admin/class-ht-ctc-admin-other-settings.php:109
+#: prev/admin/class-ccw-admin-page.php:37
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: prev/admin/class-ccw-admin-page.php:35
+msgid "Text to Display"
+msgstr "Tekst om weer te geven"
+
+#: prev/admin/class-ccw-admin-page.php:34
+msgid "Position to Place"
+msgstr "Positie naar plaats"
+
+#: prev/admin/class-ccw-admin-page.php:33
+msgid "Style for Mobile Devices"
+msgstr "Stijl voor mobiele apparaten"
+
+#: prev/admin/class-ccw-admin-page.php:32
+msgid "Style for Desktops"
+msgstr "Stijl voor desktops"
+
+#: prev/admin/class-ccw-admin-page.php:31
+msgid "Group Id"
+msgstr "Groep ID"
+
+#: prev/admin/class-ccw-admin-page.php:30
+msgid "Initial Message"
+msgstr "Eerste bericht"
+
+#: new/admin/admin_commons/class-ht-ctc-metabox.php:65
+#: new/admin/class-ht-ctc-admin-main-page.php:90
+#: prev/admin/class-ccw-admin-page.php:29
+msgid "WhatsApp Number"
+msgstr "WhatsApp nummer"
+
+#: prev/admin/class-ccw-admin-page.php:28
+msgid "Return Type"
+msgstr "Retourtype"
+
+#: prev/admin/class-ccw-admin-page.php:27
+msgid "Enable ShortCodes"
+msgstr "Shortcodes inschakelen"
+
+#: prev/admin/class-ccw-admin-page.php:26
+msgid "Enable Floating Styles"
+msgstr "Zwevende stijlen inschakelen"
+
+#: prev/admin/class-ccw-admin-page.php:24
+msgid "Switch to new User Interface"
+msgstr "Overschakelen naar nieuwe gebruikersinterface"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:84
+#: prev/admin/settings_page.php:65
+msgid "LinkedIn"
+msgstr "Linkedin"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:81
+#: prev/admin/settings_page.php:64
+msgid "YouTube"
+msgstr "YouTube"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:83
+#: prev/admin/settings_page.php:63
+msgid "Instagram"
+msgstr "Instagram"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:82
+#: prev/admin/settings_page.php:62
+msgid "Twitter"
+msgstr "Twitter"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:80
+#: prev/admin/settings_page.php:61
+msgid "Facebook"
+msgstr "Facebook"
+
+#: new/admin/admin_commons/admin-after-settings-page.php:78
+#: prev/admin/settings_page.php:60
+msgid "HoliThemes On"
+msgstr "HoliThemes aan"
+
+#. Author URI of the plugin
+msgid "https://holithemes.com/plugins/click-to-chat/"
+msgstr "https://holithemes.com/plugins/click-to-chat/"
+
+#. Author of the plugin
+msgid "HoliThemes"
+msgstr "HoliThemes"
+
+#. Description of the plugin
+msgid "Lets make your Web page visitors contact you through WhatsApp with a single click/tap"
+msgstr "Hiermee kunnen bezoekers van jouw webpagina contact met je opnemen via WhatsApp met één klik/tik"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/click-to-chat-for-whatsapp/"
+msgstr "https://wordpress.org/plugins/click-to-chat-for-whatsapp/"
+
+#. Plugin Name of the plugin
+#: prev/admin/class-ccw-admin-page-customize-styles.php:804
+msgid "Click to Chat"
+msgstr "Klik om te chatten"
